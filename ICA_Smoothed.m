@@ -1,7 +1,7 @@
 clc; clear all; close all;
 
 % Load cell data
-load("SAR_ANR26650M1B_A_1_3.mat");
+load("_____________.mat");
 
 % Set parameters
 Cellnum       = 1;  % Cell index to analyze
